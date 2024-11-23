@@ -2,8 +2,8 @@
 
 ## 🌱section06 (Simple Counter 만들기)
 <div>
-  <img src="/images/SimpleCounter.png" width="300" />
-  <img src="/images/SimpleCounter.gif" width="300" />
+  <img src="/images/SimpleCounter.png" width="50%" />
+  <img src="/images/SimpleCounter.gif" width="50%" />
 </div>
 
 ## 🌱section08 (Todo리스트 만들기)
