@@ -3,5 +3,5 @@
 ## section06 (Simple Counter 만들기)
 <div>
   <img src="/images/SimpleCounter.png" width="300" />
-  <img src="/images/SimpleCounter.jpg" width="300" />
+  <img src="/images/SimpleCounter.gif" width="300" />
 </div>
