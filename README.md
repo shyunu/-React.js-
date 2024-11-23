@@ -8,6 +8,6 @@
 
 ## 🌱section08 (Todo리스트 만들기)
 <div>
-  <img src="/images/TodoReact.png" width="300" />
-  <img src="/images/TodoReact.gif" width="300" />
+  <img src="/images/TodoReact.png" width="400" />
+  <img src="/images/TodoReact.gif" width="400" />
 </div>
