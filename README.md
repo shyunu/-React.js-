@@ -18,14 +18,14 @@
   <tr>
     <td>일기 작성하기</td>
     <td><img src="./images/newDiary.gif" alt="일기 작성" width="300" /></td>
-    <td><strong>일기 정렬 및 조회하기</strong></td>
+    <td>일기 정렬 및 조회하기</td>
     <td><img src="./images/filterDiary.gif" alt="일기 정렬 및 조회" width="300" /></td>
   </tr>
   <tr></tr>
   <tr>
-    <td><strong>일기 수정하기</strong></td>
+    <td>일기 수정하기</td>
     <td><img src="./images/updateDiary.gif" alt="일기 수정" width="300" /></td>
-    <td><strong>일기 삭제하기</strong></td>
+    <td>일기 삭제하기</td>
     <td><img src="./images/deleteDiary.gif" alt="일기 삭제" width="300" /></td>
   </tr>
 </table>
