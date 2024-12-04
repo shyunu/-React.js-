@@ -13,6 +13,7 @@
 </div>
 
 ## 🥳 section12 (나만의 감정 일기장 만들기)
+### Vercel을 통한 프로젝트 배포 (https://emotion-diary-kimsuhyuns-projects-265581ec.vercel.app/)
 
 <table>
   <tr>
