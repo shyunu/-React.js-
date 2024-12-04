@@ -13,7 +13,6 @@
 </div>
 
 ## 🥳 section12 (나만의 감정 일기장 만들기)
-<div>
-  <img src="/images/newDiary.gif" width="400" />
-  <img src="/images/filterDiary.gif" width="400" />
-</div>
+| ![새 다이어리 생성](./images/newDiary.gif) | 새 다이어리 생성 과정 |
+|--------------------------------------------|-----------------------|
+| ![필터 다이어리](./images/filterDiary.gif)  | 다이어리 필터링 과정 |
