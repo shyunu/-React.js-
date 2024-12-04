@@ -14,11 +14,23 @@
 
 ## 🥳 section12 (나만의 감정 일기장 만들기)
 
-| **기능**           | **화면구현**                            |
-|---------------------|---------------------------------------|
-| 일기 작성하기       | ![일기 작성](./images/newDiary.gif)  |
-| 일기 정렬 및 조회하기 | ![일기 정렬 및 조회](./images/filterDiary.gif) |
-| 일기 수정하기       | ![일기 수정](./images/updateDiary.gif) |
-| 일기 삭제하기       | ![일기 삭제](./images/deleteDiary.gif) |
+<table>
+  <tr>
+    <td><strong>일기 작성하기</strong></td>
+    <td><img src="./images/newDiary.gif" alt="일기 작성" width="300" /></td>
+  </tr>
+  <tr>
+    <td><strong>일기 정렬 및 조회하기</strong></td>
+    <td><img src="./images/filterDiary.gif" alt="일기 정렬 및 조회" width="300" /></td>
+  </tr>
+  <tr>
+    <td><strong>일기 수정하기</strong></td>
+    <td><img src="./images/updateDiary.gif" alt="일기 수정" width="300" /></td>
+  </tr>
+  <tr>
+    <td><strong>일기 삭제하기</strong></td>
+    <td><img src="./images/deleteDiary.gif" alt="일기 삭제" width="300" /></td>
+  </tr>
+</table>
 
 
