@@ -14,6 +14,6 @@
 
 ## 🥳 section12 (나만의 감정 일기장 만들기)
 <div>
-  <img />
-  <img />
+  <img src="/images/newDiary.gif" width="400" />
+  <img src="/images/filterDiary.gif" width="400" />
 </div>
