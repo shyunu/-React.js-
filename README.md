@@ -17,9 +17,9 @@
 <table>
   <tr>
     <td><strong>일기 작성하기</strong></td>
-    <td><img src="./images/newDiary.gif" alt="일기 작성" width="400" /></td>
+    <td><img src="./images/newDiary.gif" alt="일기 작성" width="300" /></td>
     <td><strong>일기 정렬 및 조회하기</strong></td>
-    <td><img src="./images/filterDiary.gif" alt="일기 정렬 및 조회" width="400" /></td>
+    <td><img src="./images/filterDiary.gif" alt="일기 정렬 및 조회" width="300" /></td>
   </tr>
   <tr></tr>
   <tr>
