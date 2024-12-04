@@ -21,6 +21,7 @@
     <td><strong>일기 정렬 및 조회하기</strong></td>
     <td><img src="./images/filterDiary.gif" alt="일기 정렬 및 조회" width="300" /></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><strong>일기 수정하기</strong></td>
     <td><img src="./images/updateDiary.gif" alt="일기 수정" width="300" /></td>
